@@ -13,7 +13,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
 
-  <string name="nitrogen_settings_title">Настройки Nitrogen OS</string>
+  <string name="nitrogen_settings_title">Настройки Pyxis OS</string>
 
   <!-- Categories -->
     <string name="button_title">Аппаратные кнопки</string>
@@ -252,10 +252,10 @@
     <string name="smart_pulldown_title">\"Умная\" панель уведомлений</string>
     <string name="smart_pulldown_summary">Открыть быстрые настройки %1$s уведомлений</string>
     <string name="smart_pulldown_none_summary">Открыть быстрые настройки без уведомлений</string>
-    <string name="smart_pulldown_off">выключено</string>
-    <string name="smart_pulldown_none">без уведомлений</string>
-    <string name="smart_pulldown_dismissable">без удаляемых</string>
-    <string name="smart_pulldown_ongoing">без постоянных</string>
+    <string name="smart_pulldown_off">Выключено</string>
+    <string name="smart_pulldown_none">Без уведомлений</string>
+    <string name="smart_pulldown_dismissable">Без удаляемых</string>
+    <string name="smart_pulldown_ongoing">Без постоянных</string>
 
     <string name="notification_light_settings">Индикация уведомлений</string>
 
@@ -322,7 +322,7 @@
     <string name="heads_up_snooze_title">Отложить</string>
     <string name="heads_up_snooze_summary_one_minute">Смахивание вверх отложит всплывающие сообщения от приложения на 1 минуту</string>
     <string name="heads_up_snooze_summary">Смахивание вверх отложит всплывающие сообщения от приложения на <xliff:g id="number">%d</xliff:g> минут</string>
-    <string name="heads_up_snooze_disabled_summary">отключено</string>
+    <string name="heads_up_snooze_disabled_summary">Отключено</string>
     <string name="heads_up_snooze_1min">1 минута</string>
     <string name="heads_up_snooze_5min">5 минут</string>
     <string name="heads_up_snooze_10min">10 минут</string>
@@ -338,7 +338,7 @@
     <string name="lockscreen_qs_disabled_summary">Выключить панель быстрых настроек на защищенном экране блокировки</string>
 
     <!-- Pocket judge -->
-    <string name="pocket_judge_title">Режим в "Кармане"</string>
+    <string name="pocket_judge_title">Режим "в Кармане"</string>
     <string name="pocket_judge_summary">Блокировать экран и кнопки от случайного нажатия в кармане</string>
 
     <string name="gesture_preference_nos">Жесты AOSP</string>
